@@ -127,3 +127,4 @@ class QuChater(nn.Module):
             hx = self.quantum_rnn(hx, hx)
 
         return torch.sigmoid(self.fc_out(hx))
+        
