@@ -10,3 +10,5 @@ This code is released under a custom research-only license.
 It is free for academic and non-commercial research use.
 
 Commercial use requires explicit permission from the author(s).
+
+## Contact: emirkaan.ozdemir@ieee.org.tr
