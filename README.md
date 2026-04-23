@@ -11,4 +11,7 @@ It is free for academic and non-commercial research use.
 
 Commercial use requires explicit permission from the author(s).
 
+## Repo Structure 
+`./src` folder contains source code for the framework. `./train-examples` folder contains real model integration of the framework.
+
 ## Contact: emirkaan.ozdemir@ieee.org.tr
