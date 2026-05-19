@@ -15,6 +15,9 @@ Commercial use requires explicit permission from the author(s).
 `./src` folder contains source code for the framework. `./train-examples` folder contains real model integration of the framework.
 
 ## Contact: emirkaan.ozdemir@ieee.org.tr
+## Links
+https://arxiv.org/abs/2605.16454 <br>
+https://ieeexplore.ieee.org/document/11460318
 
 ## Cite 
 `@INPROCEEDINGS{11460318,
